@@ -2,11 +2,11 @@ from faker import Faker
 import pandas as pd
 import random
 
-# Seed for reproducibility
-Faker.seed(42)
-random.seed(42)
+SEED = 42
+random.seed(SEED)
 
 fake = Faker()
+fake.seed_instance(SEED)
 
 NUM_USERS = 50
 LOGS_PER_USER = 40
