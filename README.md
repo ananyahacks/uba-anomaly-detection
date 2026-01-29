@@ -13,9 +13,9 @@ synthetic data generation and unsupervised machine learning.
 
 ## Project Structure
      uba_project/
--  ├── scripts/
--  ├── notebooks/
--  ├── data/
--  │ ├── raw/
--  │ ├── processed/
--  │ └── results/
+     -  ├── scripts/
+     -  ├── notebooks/
+     -  ├── data/
+     -  │ ├── raw/
+     -  │ ├── processed/
+     -  │ └── results/
