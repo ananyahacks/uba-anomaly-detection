@@ -12,7 +12,7 @@ synthetic data generation and unsupervised machine learning.
 - One-Class SVM
 
 ## Project Structure
-  uba_project/
+     uba_project/
 -  ├── scripts/
 -  ├── notebooks/
 -  ├── data/
